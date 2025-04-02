@@ -10,6 +10,7 @@ InfernoNotificationManager is a custom notification system designed to intercept
 - **Custom Notifications**: Display custom notifications with a blue over bar and bold application name.
 - **Notification Sound**: Play a custom sound when a notification is displayed.
 - **Windows Service**: Runs as a Windows Service to continuously intercept and display notifications.
+- **Customizable Notification Sound**: Going into the code and changing the file install link and the name of the file allows you to change what sound plays on the notification
 
 ## Installation
 
