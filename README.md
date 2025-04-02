@@ -57,7 +57,7 @@ We welcome contributions! Please follow these steps to contribute:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-Skidding from this project is strictly prohibited. If I find out you skid, legal action will be taken. 
+Skidding (taking code and claiming its yours) from this project is strictly prohibited. If I find out you skid, legal action will be taken. 
 
 ## Contact
 
